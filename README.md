@@ -1,3 +1,4 @@
+Assignment 1 - Deep Learning - https://colab.research.google.com/drive/13uLyhq4BnhaA2DEgWif4Nkl6cs2xpVUF
 Colab links to models
 
 VGG , LeNet - https://colab.research.google.com/drive/1T2JHgVYuoxFpDmFv62Upwl0-m9-_Xo5K#scrollTo=fAtm74c94XhL
