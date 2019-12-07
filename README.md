@@ -1,10 +1,10 @@
-Colab links to VGG and LeNet models
+Colab links to models
 
-VGG - https://colab.research.google.com/drive/1xWzz3nkXRpYGboqX3aGmIRZoj64af4JE
+VGG , LeNet - https://colab.research.google.com/drive/1T2JHgVYuoxFpDmFv62Upwl0-m9-_Xo5K#scrollTo=fAtm74c94XhL
 
-LeNet - https://colab.research.google.com/drive/1V5Ro-W4vsfihsHylahd86vNABPifK6cJ
+Dog-Breed-identification Assignment - https://colab.research.google.com/drive/1Wm6TgWG2trsr9Ax20jqQ1oXeYZl_Ilp2#scrollTo=dOY7xwSVdQ-T
 
-Dog-Breed-identification Assignment - https://colab.research.google.com/drive/1IhRDFiMue2HE08mF0Q6J08TG-UefKKP-#scrollTo=pla9kQyrZ48C
+Assignment 3 - Dog Breed classifier- https://colab.research.google.com/drive/1Wm6TgWG2trsr9Ax20jqQ1oXeYZl_Ilp2#scrollTo=dOY7xwSVdQ-T
 
-Assignment 4 - https://colab.research.google.com/drive/1JI9ffKGoAlQqa7-uxteLHSyXXlptuMTy#scrollTo=sNzJi89X7B6n
+
 
